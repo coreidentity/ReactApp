@@ -2,6 +2,7 @@
 
 **The Following is a List of Unvetted Links in No Particular Order**
 
+* [The easiest way to get started with React is to use this Hello World example code on CodePen.](https://facebook.github.io/react/docs/hello-world.html)
 * [redux react js examples for beginners - Google Search](https://www.google.com/search?q=redux+react+js+examples+for+beginners&rlz=1C5CHFA_enUS712US712&ei=ykovWY_jDuXSjwSa44v4CA&start=10&sa=N&biw=1272&bih=676)
 * [Learn ReactJS: Part I | Codecademy](https://www.codecademy.com/learn/react-101)
 * [Learn React.JS in 8 Minutes – Learning New Stuff – Medium](https://medium.com/learning-new-stuff/learn-react-js-in-7-min-92a1ef023003)
