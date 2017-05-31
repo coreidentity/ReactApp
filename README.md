@@ -43,3 +43,15 @@
 * [MUI - Material Design React Framework](https://www.muicss.com/docs/v1/react/introduction)
 * [material-design-react](https://www.npmjs.com/package/material-design-react)
 * [32 MaterialDesign Examples with ReactJS](https://react.rocks/tag/MaterialDesign)
+
+
+## UI/UX for Consent Management
+
+**Starting from adjacent use cases for OAuth2/OpenID Connect**
+
+* [Demystifying Modern Social APIs: Social Sign-In — SitePoint](https://www.sitepoint.com/demystifying-modern-social-apis-social-sign-in/)
+
+* [react redux mateial design UI oauth2 agree consent - Google Search](https://www.google.com/search?rlz=1C5CHFA_enUS712US712&biw=1272&bih=676&tbm=isch&sa=1&q=react+redux+mateial+design+UI+oauth2+agree+consent&oq=react+redux+mateial+design+UI+oauth2+agree+consent&gs_l=img.3...107265.117088.0.117285.22.20.2.0.0.0.119.1336.19j1.20.0....0...1.1.64.img..0.0.0.64aQMHv7Wpo#imgrc=MY2w0TEzgTowVM:)
+* [*redux-oauth](https://www.npmjs.com/package/redux-oauth)
+* [react-redux-oauth2](https://www.npmjs.com/package/react-redux-oauth2)
+* [Add login / authentication example · Issue #153 · zeit/next.js](https://github.com/zeit/next.js/issues/153)
