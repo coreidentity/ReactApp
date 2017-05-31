@@ -35,3 +35,11 @@
 * [Full-Stack Redux Tutorial](https://teropa.info/blog/2015/09/10/full-stack-redux-tutorial.html)
 * [Build a Bookshop with React & Redux I: React Redux Flow ― Scotch](https://scotch.io/tutorials/build-a-bookshop-with-react-redux-i-react-redux-flow)
 * [106 Redux Examples with ReactJS](https://react.rocks/tag/Redux)
+
+## Material Design
+
+* [Material-UI](http://www.material-ui.com/#/)
+* [React Toolbox](http://react-toolbox.com/#/)
+* [MUI - Material Design React Framework](https://www.muicss.com/docs/v1/react/introduction)
+* [material-design-react](https://www.npmjs.com/package/material-design-react)
+* [32 MaterialDesign Examples with ReactJS](https://react.rocks/tag/MaterialDesign)
