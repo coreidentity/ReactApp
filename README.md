@@ -1,8 +1,6 @@
-# ReactApp
+# Getting Started With React & Redux 
 
-## Getting Started With React & Redux 
-
-** The Following is a List of Unvetted Links in No Particular Order**
+**The Following is a List of Unvetted Links in No Particular Order**
 
 * [redux react js examples for beginners - Google Search](https://www.google.com/search?q=redux+react+js+examples+for+beginners&rlz=1C5CHFA_enUS712US712&ei=ykovWY_jDuXSjwSa44v4CA&start=10&sa=N&biw=1272&bih=676)
 * [Learn ReactJS: Part I | Codecademy](https://www.codecademy.com/learn/react-101)
